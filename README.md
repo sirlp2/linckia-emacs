@@ -1,0 +1,2 @@
+# linckia-emacs
+Emacs Config
